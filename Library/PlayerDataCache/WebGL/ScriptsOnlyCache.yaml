@@ -56,23 +56,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11242}
     - Class: 114
-      Script: {instanceID: 11200}
+      Script: {instanceID: 11290}
     - Class: 114
-      Script: {instanceID: 11310}
+      Script: {instanceID: 11400}
     - Class: 114
-      Script: {instanceID: 11350}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11426}
+      Script: {instanceID: 11516}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 11824}
     - Class: 114
-      Script: {instanceID: 12110}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12584}
+      Script: {instanceID: 12678}
     - Class: 114
-      Script: {instanceID: 12932}
+      Script: {instanceID: 13026}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -529,4 +529,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: C:/GGsLeisureTime/Unity0428HW/Class0428hw
+  playerPath: C:/Users/hhg/Desktop/game design/Unity/Unity0430hw
